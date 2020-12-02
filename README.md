@@ -1,4 +1,4 @@
-### Hi there, I'm Rafael Buçard 👋
+### Hi there, I'm Rafael Buçard :elephant:
 
 ![](https://i.giphy.com/ZVik7pBtu9dNS.gif)
 <!--
