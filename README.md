@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://octodex.github.com/images/daftpunktocat-guy.gif)
 <!--
 **rafaelbucard/rafaelbucard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
