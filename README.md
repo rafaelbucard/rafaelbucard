@@ -1,8 +1,5 @@
 ### Hi there, I'm Rafael Buçard   :elephant:
 
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
-
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-bu%C3%A7ard-7b2b25162/)](https://www.linkedin.com/in/rafael-bu%C3%A7ard-7b2b25162/)
 - [Website](https://www.rafaelbucard.com/) 💻
