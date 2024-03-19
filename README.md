@@ -1,7 +1,7 @@
 ### Hi there, I'm Rafael Buçard   :elephant:
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-bu%C3%A7ard-7b2b25162/)](https://www.linkedin.com/in/rafael-bu%C3%A7ard-7b2b25162/)
+[![Linkedin Badge](www.linkedin.com/in/rafael-bucard-7b2b25162)
 
 
 <!--
