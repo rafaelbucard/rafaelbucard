@@ -1,8 +1,8 @@
 ### Hi there, I'm Rafael Buçard   :elephant:
 
-I work as a Web Developer, specializing in Back-end development using PHP language, the Laravel framework, and related technologies. On the Front-end,
+I work as a Web Developer, specializing in Back-end development using PHP language, the Laravel framework, and related technologies. On the Front-end, I focus on JavaScript, its libraries, and frameworks.
 
- I focus on JavaScript, its libraries, and frameworks. Additionally, I function as a systems analyst, consultant, and developer, actively engaged in test creation and tool selection for projects.
+ Additionally, I function as a systems analyst, consultant, and developer, actively engaged in test creation and tool selection for projects.
 
  I stay updated on technological advancements through continuous learning, aiming to enhance my expertise and project management skills with agile methodologies
 
