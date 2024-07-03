@@ -2,27 +2,12 @@
 
 I work as a Web Developer, specializing in Back-end development using PHP language, the Laravel framework, and related technologies. On the Front-end, I focus on JavaScript, its libraries, and frameworks.
 
- Additionally, I function as a systems analyst, consultant, and developer, actively engaged in test creation and tool selection for projects.
+Additionally, I function as a systems analyst, consultant, and developer, actively engaged in test creation and tool selection for projects.
 
- I stay updated on technological advancements through continuous learning, aiming to enhance my expertise and project management skills with agile methodologies
+I stay updated on technological advancements through continuous learning, aiming to enhance my expertise and project management skills with agile methodologies
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-bu%C3%A7ard-7b2b25162/)](https://www.linkedin.com/in/rafael-bucard-7b2b25162/)
-
-<!--
-![](https://i.giphy.com/ZVik7pBtu9dNS.gif)
-**rafaelbucard/rafaelbucard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-https://ileriayo.github.io/markdown-badges/#databases
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Personal Website](https://img.shields.io/badge/-Personal%20Website-green?style=flat-square&link=https://rafael.bucardcode.com.br/)](https://rafael.bucardcode.com.br/)
 
 <!--
 ![](https://i.giphy.com/ZVik7pBtu9dNS.gif)
