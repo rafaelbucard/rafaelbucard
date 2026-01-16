@@ -1,10 +1,20 @@
 ### Hi there, I'm Rafael Buçard   :elephant:
 
-I work as a Web Developer, specializing in Back-end development using PHP language, the Laravel framework, and related technologies. On the Front-end, I focus on JavaScript, its libraries, and frameworks.
+I work as a Web Developer, specializing in Back-end development using the PHP language, the Laravel framework, and related technologies. On the Front-end, I focus on JavaScript, its libraries, and frameworks.
 
 Additionally, I function as a systems analyst, consultant, and developer, actively engaged in test creation and tool selection for projects.
 
-I stay updated on technological advancements through continuous learning, aiming to enhance my expertise and project management skills with agile methodologies
+I stay updated on technological advancements through continuous learning, aiming to enhance my expertise and project management skills with agile methodologies.
+
+With extensive experience, I have worked for years on government systems and also have a background in proprietary systems across various sectors, whose codebases reside in other repository hubs. Here, I showcase some personal projects to demonstrate my knowledge and technical approaches.
+
+Atuo como Desenvolvedor Web, com especialização em desenvolvimento Back-end utilizando a linguagem PHP, o framework Laravel e tecnologias relacionadas. No Front-end, meu foco está em JavaScript, suas bibliotecas e frameworks.
+
+Além disso, atuo como analista de sistemas, consultor e desenvolvedor, participando ativamente da criação de testes e seleção de ferramentas para projetos.
+
+Mantenho-me atualizado sobre os avanços tecnológicos através de aprendizado contínuo, visando aprimorar minha expertise e habilidades de gerenciamento de projetos com metodologias ágeis.
+
+Com ampla experiência, trabalho há anos no desenvolvimento de sistemas governamentais e também atuo em sistemas proprietários para diversos setores, cujos códigos estão em outros hubs de repositórios. Aqui, apresento alguns projetos pessoais com o objetivo de demonstrar meus conhecimentos e abordagens técnicas.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-bu%C3%A7ard-7b2b25162/)](https://www.linkedin.com/in/rafael-bucard-7b2b25162/)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-green?style=flat-square&link=https://rafael.bucardcode.com.br/)](https://rafael.bucardcode.com.br/)
