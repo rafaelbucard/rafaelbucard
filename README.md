@@ -8,6 +8,7 @@ I stay updated on technological advancements through continuous learning, aiming
 
 With extensive experience, I have worked for years on government systems and also have a background in proprietary systems across various sectors, whose codebases reside in other repository hubs. Here, I showcase some personal projects to demonstrate my knowledge and technical approaches.
 
+PT-BR
 Atuo como Desenvolvedor Web, com especialização em desenvolvimento Back-end utilizando a linguagem PHP, o framework Laravel e tecnologias relacionadas. No Front-end, meu foco está em JavaScript, suas bibliotecas e frameworks.
 
 Além disso, atuo como analista de sistemas, consultor e desenvolvedor, participando ativamente da criação de testes e seleção de ferramentas para projetos.
