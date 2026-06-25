@@ -1,43 +1,64 @@
-### Hi there, I'm Rafael Buçard   :elephant:
+### Olá! Eu sou o Rafael Buçard 👋 :elephant:
 
-I work as a Web Developer, specializing in Back-end development using the PHP language, the Laravel framework, and related technologies. On the Front-end, I focus on JavaScript, its libraries, and frameworks.
+**Desenvolvedor Full Stack Sênior** — Rio de Janeiro, Brasil.
 
-Additionally, I function as a systems analyst, consultant, and developer, actively engaged in test creation and tool selection for projects.
+Construo projetos de ponta a ponta — do levantamento de requisitos ao deploy — passando por
+back-end robusto com **PHP/Laravel** (APIs RESTful, microsserviços e arquiteturas escaláveis),
+front-end moderno com **JavaScript e React**, modelagem e otimização de bancos de dados,
+conteinerização com **Docker** e integração e entrega contínuas (**CI/CD**) com **computação
+em nuvem (AWS)**. Também atuo como analista de sistemas e consultor, participando ativamente
+da criação de testes e da seleção de ferramentas para cada projeto.
 
-I stay updated on technological advancements through continuous learning, aiming to enhance my expertise and project management skills with agile methodologies.
+Tenho mais de 6 anos de experiência, atuando em sistemas proprietários para diversos setores,
+cujos códigos vivem em outros hubs de repositórios. Aqui apresento alguns projetos pessoais
+para demonstrar meus conhecimentos e abordagens técnicas.
 
-With extensive experience, I have worked for years on government systems and also have a background in proprietary systems across various sectors, whose codebases reside in other repository hubs. Here, I showcase some personal projects to demonstrate my knowledge and technical approaches.
+Mantenho-me em aprendizado contínuo, sempre focado em qualidade, performance e boas práticas
+de engenharia de software, com metodologias ágeis.
 
-PT-BR
-Atuo como Desenvolvedor Web, com especialização em desenvolvimento Back-end utilizando a linguagem PHP, o framework Laravel e tecnologias relacionadas. No Front-end, meu foco está em JavaScript, suas bibliotecas e frameworks.
+---
 
-Além disso, atuo como analista de sistemas, consultor e desenvolvedor, participando ativamente da criação de testes e seleção de ferramentas para projetos.
+**English**
 
-Mantenho-me atualizado sobre os avanços tecnológicos através de aprendizado contínuo, visando aprimorar minha expertise e habilidades de gerenciamento de projetos com metodologias ágeis.
+Hi there! I'm **Rafael Buçard**, a **Senior Full Stack Developer** based in Rio de Janeiro, Brazil.
 
-Com ampla experiência, trabalho há anos no desenvolvimento de sistemas governamentais e também atuo em sistemas proprietários para diversos setores, cujos códigos estão em outros hubs de repositórios. Aqui, apresento alguns projetos pessoais com o objetivo de demonstrar meus conhecimentos e abordagens técnicas.
+I build end-to-end projects — from requirements gathering to deployment — covering robust
+back-ends with **PHP/Laravel** (RESTful APIs, microservices and scalable architectures),
+modern front-ends with **JavaScript and React**, database modeling and optimization,
+containerization with **Docker**, and continuous integration and delivery (**CI/CD**) with
+**cloud computing (AWS)**. I also work as a systems analyst and consultant, actively engaged
+in test creation and tool selection for projects.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-bu%C3%A7ard-7b2b25162/)](https://www.linkedin.com/in/rafael-bucard-7b2b25162/)
-[![Personal Website](https://img.shields.io/badge/-Personal%20Website-green?style=flat-square&link=https://rafael.bucardcode.com.br/)](https://rafael.bucardcode.com.br/)
+With 6+ years of experience across proprietary systems in various sectors — whose codebases
+live in other repository hubs — here I showcase some personal projects to demonstrate my
+knowledge and technical approaches.
 
-<!--
-![](https://i.giphy.com/ZVik7pBtu9dNS.gif)
-**rafaelbucard/rafaelbucard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I stay updated through continuous learning, always focused on quality, performance and solid
+software engineering practices with agile methodologies.
 
-Here are some ideas to get you started:
-https://ileriayo.github.io/markdown-badges/#databases
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-ff9563?style=flat-square&logo=googlechrome&logoColor=white&link=https://rafael.bucardcode.com.br/)](https://rafael.bucardcode.com.br/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bucard-7b2b25162/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5521988247673)
+
+#### 🛠️ Tech Stack
+
 ![PHP](https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![laravel](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
-![MySql](https://img.shields.io/badge/mysql-%2300000f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+<!--
+**rafaelbucard/rafaelbucard** is a ✨ _special_ ✨ repository because its `README.md` (this file)
+appears on your GitHub profile.
+-->
